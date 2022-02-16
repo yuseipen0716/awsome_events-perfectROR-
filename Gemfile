@@ -26,9 +26,6 @@ gem 'jbuilder', '~> 2.7'
 # installing Haml
 gem 'hamlit-rails', '~> 0.2.3'
 
-# installing 'html2haml'
-gem 'html2haml', '~> 2.2.0'
-
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
